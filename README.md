@@ -38,7 +38,7 @@
 - 😄 Pronouns: He/Him
 <br><br>
 <hr>
-**Languages and Tools:** 
+### Languages and Tools: 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
