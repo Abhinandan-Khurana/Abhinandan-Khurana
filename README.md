@@ -1,3 +1,4 @@
+## <p align="centre" > “If you are persistent you will get it. If you are consistent you will keep it.” </p>
 
 <p align="center">
   <img alt="Header Image" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/top_image.png" />
@@ -6,14 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Abhinandan+Khurana+aka+%22Lousifer007%22;I+am+a+Cyber+Security+Enthusiast+)](https://git.io/typing-svg)
 
 <hr>
-
-
-<br>
-
-
-
-### “If you are persistent you will get it. If you are consistent you will keep it.” -Harvey Mackay
-
 
 
 ## Glad to see you here! Feel free to connect with me:
