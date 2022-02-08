@@ -1,4 +1,4 @@
-## <p align="center" > “If you are persistent you will get it. If you are consistent you will keep it.” </p>
+## <p align="center" > “If you are persistent, you will get it. If you are consistent, you will keep it.” </p>
 
 <br>
 
