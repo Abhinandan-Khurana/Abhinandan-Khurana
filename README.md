@@ -15,7 +15,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_-_khurana_007/)
  [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191)
 
-
+<br><br>
 
 
 <!-- Talking about you -->
@@ -34,7 +34,7 @@
 - ⚡️ Hobbies: Hacking Coding Gaming and Anime
 - 📫 How to reach me: [abhinandankhuranaoo7@gmail.com][Abhinandan.Khurana@studentambassadors.com]
 - 😄 Pronouns: He/Him
-
+<br><br>
 
 **Languages and Tools:** 
 
@@ -65,7 +65,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   </p>
 
-
+<br>
 
 
 
