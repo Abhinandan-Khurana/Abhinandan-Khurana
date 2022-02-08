@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Abhinandan+Khurana+aka+%22Lousifer007%22;I+am+a+Cyber+Security+Enthusiast+)](https://git.io/typing-svg)
 
 <hr>
-
-### Glad to see you here! Feel free to connect with me:
+<br>
+## Glad to see you here! Feel free to connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-khurana)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://abhinandan-khurana.github.io/Abhinandan-portfolio/)
@@ -15,13 +15,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_-_khurana_007/)
  [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191)
 
-
+<br>
 <hr>
-<br><br>
+<br>
 
 
 <!-- Talking about you -->
-### Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 <p align="center">
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
@@ -38,9 +38,9 @@
 - 😄 Pronouns: He/Him
 <br><br>
 <hr>
+<br>
 
-
-### Languages and Tools: 
+## Languages and Tools: 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -71,7 +71,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <br>
 <hr>
-
+<br>
 
 ## 📈 My GitHub Stats:
 
@@ -86,7 +86,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan-khurana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br><br>
 
 
 
