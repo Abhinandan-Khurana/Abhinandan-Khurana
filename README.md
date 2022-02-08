@@ -8,6 +8,13 @@
 <hr>
 
 
+<br?
+
+
+
+### “If you are persistent you will get it. If you are consistent you will keep it.” -Harvey Mackay
+
+
 
 ## Glad to see you here! Feel free to connect with me:
 
