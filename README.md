@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Abhinandan+Khurana+aka+%22Lousifer007%22;I+am+a+Cyber+Security+Enthusiast+)](https://git.io/typing-svg)
 
-
+<hr>
 
 ### Glad to see you here! Feel free to connect with me:
 
@@ -15,6 +15,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_-_khurana_007/)
  [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191)
 
+
+<hr>
 <br><br>
 
 
@@ -35,7 +37,7 @@
 - 📫 How to reach me: [abhinandankhuranaoo7@gmail.com][Abhinandan.Khurana@studentambassadors.com]
 - 😄 Pronouns: He/Him
 <br><br>
-
+<hr>
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -66,7 +68,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </p>
 
 <br>
-
+<hr>
 
 
 
@@ -81,7 +83,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan-khurana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
