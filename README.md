@@ -1,7 +1,6 @@
 ## <p align="center" > “If you are persistent you will get it. If you are consistent you will keep it.” </p>
 
 <br>
-<hr>
 
 <p align="center">
   <img alt="Header Image" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/top_image.png" />
