@@ -109,6 +109,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 [![@lousifer007's Holopin board](https://holopin.me/lousifer007)](https://holopin.io/@lousifer007)
 
+## 👥︎ How about an [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) meme before you go?
+
+The top voted meme for today is...
+
+### {templ_title}
+
+![ProgrammerHumour Meme of the Day]({templ_image})
 
 ### Visitors Count 
 
