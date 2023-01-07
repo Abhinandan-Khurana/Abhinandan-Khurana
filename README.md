@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### These freelance jobs are becoming increasingly difficult.
+### {templ_title}
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yyu3jhjwcjaa1.png)
+![ProgrammerHumour Meme of the Day]({templ_image})
 
 
 ### Visitors Count 
