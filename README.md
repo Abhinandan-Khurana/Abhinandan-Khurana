@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Trust me it hurts
+### Complexity
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qjyk64j6dmaa1.png)
+![ProgrammerHumour Meme of the Day](https://www.monkeyuser.com/assets/images/2022/247-complexity.png)
 
 ### Visitors Count 
 
