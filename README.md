@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When the app devs require 64GB of RAM to run a basic web server
+### Happens , many times!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x5ug7eck7taa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ydtp6vaftraa1.jpg)
 
 ### Visitors Count 
 
