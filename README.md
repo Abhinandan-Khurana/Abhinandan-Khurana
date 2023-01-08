@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### These freelance jobs are becoming increasingly difficult.
+### Programmers Were So Preoccupied With Whether Or Not They Could, They Didn’t Stop To Think If They Should
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yyu3jhjwcjaa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/udw7fitjmmaa1.jpg)
 
 ### Visitors Count 
 
