@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/abhinandan-khurana" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=005480&logoColor=white" alt="Linkedin" /></a>&nbsp; 
 <a href="https://instagram.com/abhinandan_khurana_007/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=9c162f&logoColor=white" alt="Instagram" /></a>&nbsp; 
 <a href="https://twitter.com/l0u51f3r007" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=0a6ca9&logoColor=white" alt="Twitter" /></a>&nbsp; 
-<a href="https://abhinandan-khurana.github.io/Abhinandan-portfolio/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-2EC866?style=for-the-badge&logo=google-chrome&labelColor=186835&logoColor=white" alt="Hackerrank" /></a>&nbsp;
+<a href="https://abhinandan-khurana.github.io/Abhinandan-portfolio/" target="blank"><img src="https://img.shields.io/badge/-Portfolio-2EC866?style=for-the-badge&logo=google-chrome&labelColor=186835&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://tryhackme.com/p/Lousifer007" target="blank"><img src="https://img.shields.io/badge/-TryHackMe-841650?style=for-the-badge&logo=TryHackMe&labelColor=841617&logoColor=white" alt="TryHackMe" /></a>&nbsp;
 <a href="https://discordapp.com/users/Lousifer007#0191" target="blank"><img src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=Discord&labelColor=5865b2&logoColor=white" alt="Discord" /></a>&nbsp;
 </p>
