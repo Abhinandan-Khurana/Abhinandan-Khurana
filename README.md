@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Happens , many times!
+### Be charitable
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ydtp6vaftraa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zbz1grhgjuaa1.png)
 
 ### Visitors Count 
 
