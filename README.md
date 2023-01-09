@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### seriously though is it not pronounced as an initialism?
+### So what is going on ??
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0s0mk50swvaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cpj8mezoazaa1.jpg)
 
 ### Visitors Count 
 
