@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Be charitable
+### seriously though is it not pronounced as an initialism?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zbz1grhgjuaa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0s0mk50swvaa1.jpg)
 
 ### Visitors Count 
 
