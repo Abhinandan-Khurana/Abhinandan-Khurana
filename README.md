@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### gents, the fate of the world rests on our hands
+### dont want online ones
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p568shoyk2ba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p68nzlzmp8ba1.jpg)
 
 ### Visitors Count 
 
