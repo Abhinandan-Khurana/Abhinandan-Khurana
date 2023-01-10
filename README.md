@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### So what is going on ??
+### oopsie woopsie something went wrong
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cpj8mezoazaa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2c8rlxyh41ba1.jpg)
 
 ### Visitors Count 
 
