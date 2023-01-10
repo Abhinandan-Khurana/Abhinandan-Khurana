@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### No better place to put it
+### Just sitting there idle
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bq54om6am4ba1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/g55oa7rqd7ba1.png)
 
 ### Visitors Count 
 
