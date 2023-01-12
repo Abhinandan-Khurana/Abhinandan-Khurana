@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Is it standard programming practice?
+### Been thinking about this lately
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/f7yoryfl5lba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uyzc4rle9jba1.jpg)
 
 ### Visitors Count 
 
