@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### The struggle is real
+### Is it standard programming practice?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hw9nv448laba1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f7yoryfl5lba1.jpg)
 
 ### Visitors Count 
 
