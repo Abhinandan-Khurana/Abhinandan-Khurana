@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### "Just add sleep()"
+### Its ‘software developer’
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iak44ctwyfba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z38xtirykgba1.jpg)
 
 ### Visitors Count 
 
