@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Its ‘software developer’
+### The struggle is real
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z38xtirykgba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hw9nv448laba1.png)
 
 ### Visitors Count 
 
