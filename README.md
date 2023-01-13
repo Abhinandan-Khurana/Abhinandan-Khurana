@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Should I tell him
+### Myanmar Government is pretty fucked right now
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/AFCE88Q.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9lwtds6o8tba1.jpg)
 
 ### Visitors Count 
 
