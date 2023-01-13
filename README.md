@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Sigma males don't go outside.. they average 40 commits a day
+### Just looking over some old code.... not sure how I missed this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ld6umy28hpba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ao92svp6elba1.png)
 
 ### Visitors Count 
 
