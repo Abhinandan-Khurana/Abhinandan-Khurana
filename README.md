@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### ahhh yes... Professional Googlers
+### Should I tell him
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/64l8z3d5dqba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/AFCE88Q.jpg)
 
 ### Visitors Count 
 
