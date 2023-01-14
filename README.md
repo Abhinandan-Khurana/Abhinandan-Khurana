@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When the intern designs the system
+### That’s it, blame the intern!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y1f76vsx4vba1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/raq4guis5wba1.png)
 
 ### Visitors Count 
 
