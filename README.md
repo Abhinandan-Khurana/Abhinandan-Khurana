@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### "Oh Gods of Programming, Have you blessed me?"
+### The future
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/irbm291qv2ca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2t0huxtbt7ca1.jpg)
 
 ### Visitors Count 
 
