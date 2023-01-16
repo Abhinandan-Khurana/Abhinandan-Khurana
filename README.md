@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### The future
+### This startup is going to change the game on file directories
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2t0huxtbt7ca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8mqp8j46haca1.png)
 
 ### Visitors Count 
 
