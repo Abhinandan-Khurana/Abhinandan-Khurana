@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### This startup is going to change the game on file directories
+### If (exists == true) { dont();}
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8mqp8j46haca1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5zzyhx0i7eca1.jpg)
 
 ### Visitors Count 
 
