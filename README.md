@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### If (exists == true) { dont();}
+### Very efficient Code
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5zzyhx0i7eca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0l34r72dafca1.png)
 
 ### Visitors Count 
 
