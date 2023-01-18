@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I kid you not, this happened during today's standup.
+### Seriously tho
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hhsjczkw2oca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kq4rb6erqpca1.jpg)
 
 ### Visitors Count 
 
