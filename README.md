@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When gigachad writes a sort algorithm
+### A new way to program in python :D
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mzbwlkpy3jca1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kaw7frufqkca1.png)
 
 ### Visitors Count 
 
