@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### A new way to program in python :D
+### I kid you not, this happened during today's standup.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kaw7frufqkca1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hhsjczkw2oca1.jpg)
 
 ### Visitors Count 
 
