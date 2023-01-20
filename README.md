@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I never thought it would happen to me
+### "we're like a family" intensifies
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lngbozplm2da1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pmxgmcuxg6da1.png)
 
 ### Visitors Count 
 
