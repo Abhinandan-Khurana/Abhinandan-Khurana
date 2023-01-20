@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Mongo is not meant for that..
+### I never thought it would happen to me
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/0eqti1w6o0da1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lngbozplm2da1.jpg)
 
 ### Visitors Count 
 
