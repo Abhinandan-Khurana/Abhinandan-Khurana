@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When you have a problem and solve it using RegEx, you end up with two problems
+### Pls not in prod
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h7tvkzznm8da1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ckptnaso6cda1.jpg)
 
 ### Visitors Count 
 
