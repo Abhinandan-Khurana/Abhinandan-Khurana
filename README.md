@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### layoff fiasco
+### When you have a problem and solve it using RegEx, you end up with two problems
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lt6bsycws7da1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h7tvkzznm8da1.jpg)
 
 ### Visitors Count 
 
