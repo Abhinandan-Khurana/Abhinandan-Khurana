@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Why do people curse JS so much, but also say it's better than Python
+### Better not fire anyone now
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/ikOPXWB.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gw9qk0ks9kda1.jpg)
 
 ### Visitors Count 
 
