@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I am not able to find time anymore..
+### The header row!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dsg8iien1mda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/38we4zt5qlda1.jpg)
 
 ### Visitors Count 
 
