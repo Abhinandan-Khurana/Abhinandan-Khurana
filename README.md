@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### The header row!
+### Prof made it very clear from the first day thar we can't use IDEs in the course
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/38we4zt5qlda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y1berdyf4rda1.jpg)
 
 ### Visitors Count 
 
