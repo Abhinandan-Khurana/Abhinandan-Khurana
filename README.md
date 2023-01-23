@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Better not fire anyone now
+### I am not able to find time anymore..
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gw9qk0ks9kda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dsg8iien1mda1.jpg)
 
 ### Visitors Count 
 
