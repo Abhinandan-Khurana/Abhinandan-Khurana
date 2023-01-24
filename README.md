@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Prof made it very clear from the first day thar we can't use IDEs in the course
+### God's developer console
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y1berdyf4rda1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x1cpkulextda1.png)
 
 ### Visitors Count 
 
