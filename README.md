@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### From an article about "side hustles" that pay 100k+ published by CNBC......aka jobs
+### Developers will ALWAYS find a way
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x64fc5b7v8ea1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mhlegbp2eaea1.jpg)
 
 ### Visitors Count 
 
