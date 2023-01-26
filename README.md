@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### We follow the best practices.
+### Interviewing vs. job
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sso3oy487aea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/alqgarv26fea1.png)
 
 ### Visitors Count 
 
