@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Forget VIM, VS Code is the best editor
+### C++
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h01k32orsjea1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/78sqi051rqea1.jpg)
 
 ### Visitors Count 
 
