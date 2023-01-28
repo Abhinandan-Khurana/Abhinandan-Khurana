@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Interviewing vs. job
+### Forget VIM, VS Code is the best editor
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/alqgarv26fea1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/h01k32orsjea1.png)
 
 ### Visitors Count 
 
