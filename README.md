@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Ending this debate once and for all.
+### It truly makes all the difference
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/84k6l0tavsea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2cw5nsnz6xea1.jpg)
 
 ### Visitors Count 
 
