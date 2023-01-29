@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### C++
+### Ending this debate once and for all.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/78sqi051rqea1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/84k6l0tavsea1.jpg)
 
 ### Visitors Count 
 
