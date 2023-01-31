@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Let's test which language is faster!
+### Anybody else having this kind of colleague? Way to start a Monday!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ykd268k6x0fa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/pa5vwcval8fa1.jpg)
 
 ### Visitors Count 
 
