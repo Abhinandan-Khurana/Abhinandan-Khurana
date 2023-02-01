@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### They said they would be treated better.
+### Are junior developers actually useless?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sd05xgkovdfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8uwpquz9wffa1.png)
 
 ### Visitors Count 
 
