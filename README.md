@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### At least the pay is good
+### Bro wants an entire dev team for free
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2kzz44llt8fa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zpo7k5nysbfa1.jpg)
 
 ### Visitors Count 
 
