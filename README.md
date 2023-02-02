@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I'm a bird engineer.
+### It did happen like that
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y9wn43s9pkfa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gr0o3uznfnfa1.png)
 
 ### Visitors Count 
 
