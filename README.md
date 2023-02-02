@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Are junior developers actually useless?
+### I'm a bird engineer.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8uwpquz9wffa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y9wn43s9pkfa1.jpg)
 
 ### Visitors Count 
 
