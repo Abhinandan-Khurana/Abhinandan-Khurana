@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### It did happen like that
+### Most humble CS student
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gr0o3uznfnfa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/02sbsxx2zrfa1.jpg)
 
 ### Visitors Count 
 
