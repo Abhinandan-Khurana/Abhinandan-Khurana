@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Don’t question it
+### Actual message from a guy on a dating app
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7r2tjc9loufa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/isyrj8ssa1ga1.jpg)
 
 ### Visitors Count 
 
