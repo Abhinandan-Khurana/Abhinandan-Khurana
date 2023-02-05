@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Get it while it’s hot
+### When you remember that you don't own the company...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/atrxw2vat8ga1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hxtf0xocd8ga1.jpg)
 
 ### Visitors Count 
 
