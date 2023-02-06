@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When you remember that you don't own the company...
+### Programming Legumes v2.0
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hxtf0xocd8ga1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o9exmbw1kega1.jpg)
 
 ### Visitors Count 
 
