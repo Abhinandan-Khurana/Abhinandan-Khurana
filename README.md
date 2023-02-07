@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Programming Legumes v2.0
+### These are confusing times
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/o9exmbw1kega1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jrxju36stjga1.png)
 
 ### Visitors Count 
 
