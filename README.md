@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### These are confusing times
+### University assignments be like
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jrxju36stjga1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ys93humvdqga1.jpg)
 
 ### Visitors Count 
 
