@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### University assignments be like
+### As someone who has done something similar in the past, I don't feel bad about laughing. 🤣 (Also this guy got the advice he needed.)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ys93humvdqga1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/z8jhkhpdmuga1.png)
 
 ### Visitors Count 
 
