@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### As someone who has done something similar in the past, I don't feel bad about laughing. 🤣 (Also this guy got the advice he needed.)
+### Real conversation I just had
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/z8jhkhpdmuga1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i185hzeqdxga1.jpg)
 
 ### Visitors Count 
 
