@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### It'll probably work
+### how hard could it be? it's just frontend
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/80c93hszc2ha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ft9kos7g17ha1.jpg)
 
 ### Visitors Count 
 
