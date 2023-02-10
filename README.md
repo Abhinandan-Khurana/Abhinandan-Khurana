@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### No one is irreplaceable
+### It'll probably work
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n8d65c97k2ha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/80c93hszc2ha1.jpg)
 
 ### Visitors Count 
 
