@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I really hope this feature goes to Production
+### I do think C is the best programming language tho
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/utdsbmbe06ha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jpzdxqccoiha1.jpg)
 
 ### Visitors Count 
 
