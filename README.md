@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Intern fixes 600 bugs but makes only 1 PR because it's more efficient.
+### Dev wrote the wrong RegExp
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yj8aeq7agpha1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/opi5jcgp4sha1.jpg)
 
 ### Visitors Count 
 
