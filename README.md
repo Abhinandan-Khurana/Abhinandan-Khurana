@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Can't wait for this ethics in technology course
+### Intern fixes 600 bugs but makes only 1 PR because it's more efficient.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/riz8366l0oha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yj8aeq7agpha1.png)
 
 ### Visitors Count 
 
