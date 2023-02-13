@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Dev wrote the wrong RegExp
+### My C code isn't working guys
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/opi5jcgp4sha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nd8zi8h6muha1.jpg)
 
 ### Visitors Count 
 
