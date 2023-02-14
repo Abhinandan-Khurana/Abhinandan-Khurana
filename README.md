@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### TDD is super important and useful!
+### Jesus. What a salary. I don’t think I could ask for more!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nevopagtgzha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/90igbkjxx1ia1.jpg)
 
 ### Visitors Count 
 
