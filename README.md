@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### My C code isn't working guys
+### TDD is super important and useful!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nd8zi8h6muha1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nevopagtgzha1.jpg)
 
 ### Visitors Count 
 
