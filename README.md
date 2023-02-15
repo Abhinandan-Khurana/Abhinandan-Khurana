@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Jesus. What a salary. I don’t think I could ask for more!
+### Lets reflect on that for a second
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/90igbkjxx1ia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2clrzuc446ia1.png)
 
 ### Visitors Count 
 
