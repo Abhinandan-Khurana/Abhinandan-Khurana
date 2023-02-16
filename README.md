@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Seems legit...
+### who write code like this?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/snoomh9qa9ia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ei3u33aaqeia1.png)
 
 ### Visitors Count 
 
