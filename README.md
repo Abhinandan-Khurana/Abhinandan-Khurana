@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### who write code like this?
+### The irony is too much to bear
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ei3u33aaqeia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7fo2kcqydeia1.png)
 
 ### Visitors Count 
 
