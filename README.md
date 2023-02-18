@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### move along now
+### This is not a Bug, It's a Feature
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9ny04y4b5qia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q3rs7ew4rpia1.jpg)
 
 ### Visitors Count 
 
