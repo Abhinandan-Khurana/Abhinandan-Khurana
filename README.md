@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### This is not a Bug, It's a Feature
+### 104 vulnerabilities (91 moderate, 9 high, 4 critical)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q3rs7ew4rpia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/71hvstqt9sia1.png)
 
 ### Visitors Count 
 
