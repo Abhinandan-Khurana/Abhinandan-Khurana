@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I am sure before Chatgpt these 5th standard kids would replace us.
+### the java RAM usage incident (looking at you IntelliJ)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dk56ff9mqxia1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j7fs9o0dayia1.png)
 
 ### Visitors Count 
 
