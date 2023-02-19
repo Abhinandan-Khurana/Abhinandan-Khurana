@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### the java RAM usage incident (looking at you IntelliJ)
+### Current state of applying to jobs
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j7fs9o0dayia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/axi337cxs3ja1.jpg)
 
 ### Visitors Count 
 
