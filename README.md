@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### 104 vulnerabilities (91 moderate, 9 high, 4 critical)
+### I am sure before Chatgpt these 5th standard kids would replace us.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/71hvstqt9sia1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dk56ff9mqxia1.jpg)
 
 ### Visitors Count 
 
