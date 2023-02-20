@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### thought i should post this meme here
+### Quit being babies and just try it. I promise, you'll love it when you finally work on a JS application any more complex than "Hello, World!"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ug5lgn15r4ja1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2zp7m0sr8aja1.jpg)
 
 ### Visitors Count 
 
