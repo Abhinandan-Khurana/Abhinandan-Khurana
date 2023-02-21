@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Solarized dark for me.
+### Gotta love being "Agile"
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k2jzcz705cja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/MexLwH2.jpg)
 
 ### Visitors Count 
 
