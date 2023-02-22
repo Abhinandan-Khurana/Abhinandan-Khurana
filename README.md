@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Gotta love being "Agile"
+### He knows how to work...
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/MexLwH2.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kjvqjqlq5hja1.jpg)
 
 ### Visitors Count 
 
