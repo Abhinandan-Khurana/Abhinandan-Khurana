@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I seriously don't understand this nonsense.
+### Rust Strikes Again
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h4hid8oxfmja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/jnrrJzj.jpg)
 
 ### Visitors Count 
 
