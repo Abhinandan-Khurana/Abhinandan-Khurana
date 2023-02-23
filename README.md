@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Rate my isEven and isOdd functions
+### This Elicited a Chuckle
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wub3tkdv1sja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3oaexbn2csja1.png)
 
 ### Visitors Count 
 
