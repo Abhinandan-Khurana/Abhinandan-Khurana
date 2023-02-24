@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### anon does it
+### Well that escalated quickly ChatGPT
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m95ouq9d9zja1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tfm7n2sdy2ka1.png)
 
 ### Visitors Count 
 
