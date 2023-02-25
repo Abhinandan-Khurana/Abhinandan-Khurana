@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Chaotic good hacker
+### Savagery
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/01reosd806ka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vhft8iax3dka1.jpg)
 
 ### Visitors Count 
 
