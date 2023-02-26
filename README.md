@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Perfect example of the Dunning Kruger effect
+### Sit down
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kk20oqzjxcka1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cv8rnyls9kka1.jpg)
 
 ### Visitors Count 
 
