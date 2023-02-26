@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Savagery
+### Perfect example of the Dunning Kruger effect
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vhft8iax3dka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kk20oqzjxcka1.png)
 
 ### Visitors Count 
 
