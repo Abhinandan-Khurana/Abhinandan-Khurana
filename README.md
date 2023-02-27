@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Sit down
+### No words v2💀
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cv8rnyls9kka1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j4cyiiki8mka1.png)
 
 ### Visitors Count 
 
