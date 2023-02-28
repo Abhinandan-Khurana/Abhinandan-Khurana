@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### It's literally the worst thing that can happen
+### Found this at work. Someone padded a repo with thousands of lines like this to pass a 75% code coverage check.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nsxo6uqkypka1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/6GwfYZE.jpg)
 
 ### Visitors Count 
 
