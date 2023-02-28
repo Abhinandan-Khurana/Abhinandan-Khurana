@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### No words v2💀
+### It's literally the worst thing that can happen
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j4cyiiki8mka1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nsxo6uqkypka1.png)
 
 ### Visitors Count 
 
