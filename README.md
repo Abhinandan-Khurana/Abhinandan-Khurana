@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Found this at work. Someone padded a repo with thousands of lines like this to pass a 75% code coverage check.
+### Yes, I know about transactions and backups
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/6GwfYZE.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/jSenFEv.jpg)
 
 ### Visitors Count 
 
