@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Yes, I know about transactions and backups
+### she's ...committed
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/jSenFEv.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zrb6dyp111la1.jpg)
 
 ### Visitors Count 
 
