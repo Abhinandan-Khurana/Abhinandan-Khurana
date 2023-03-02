@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### she's ...committed
+### Ive been programming for four years and I told my dad to watch long videos and complete your own projects to learn most efficiently. He thinks he’s ready to tackle any project after a ten minute video…
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zrb6dyp111la1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vakxl3twv6la1.jpg)
 
 ### Visitors Count 
 
