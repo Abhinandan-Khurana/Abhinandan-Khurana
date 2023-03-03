@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### It happened so fast, I think I might've always been one
+### hE Is nOT qUaLifIeD!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1m5yvc3ox6la1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n5ww6k7agbla1.png)
 
 ### Visitors Count 
 
