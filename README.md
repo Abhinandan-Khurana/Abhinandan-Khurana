@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### hE Is nOT qUaLifIeD!
+### When my boss does not know the difference between coding and debugging
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n5ww6k7agbla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/51ebruci1fla1.jpg)
 
 ### Visitors Count 
 
