@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Doom runs everywhere
+### HA
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/09hto6yl3qla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xwfwlkneesla1.jpg)
 
 ### Visitors Count 
 
