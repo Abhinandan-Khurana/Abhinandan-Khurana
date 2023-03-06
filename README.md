@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Learning ASM be like
+### If your IQ &lt; 180 and haven't started at the age 5, don't even bother applying for android app dev position
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ccel3mwp2wla1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/vaxk26xi23ma1.jpg)
 
 ### Visitors Count 
 
