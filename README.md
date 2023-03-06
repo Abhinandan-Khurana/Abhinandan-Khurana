@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### HA
+### Learning ASM be like
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xwfwlkneesla1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ccel3mwp2wla1.png)
 
 ### Visitors Count 
 
