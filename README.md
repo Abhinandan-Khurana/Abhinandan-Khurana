@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Not sure if this is the worst or most genius indentation I've seen
+### "Programmer" circlejerk
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3aiqobqdo3ma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j4bsx66fp7ma1.jpg)
 
 ### Visitors Count 
 
