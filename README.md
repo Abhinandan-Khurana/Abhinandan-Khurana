@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### "Programmer" circlejerk
+### Sometimes this happens...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j4bsx66fp7ma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n7x3fxo3ecma1.jpg)
 
 ### Visitors Count 
 
