@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Sometimes this happens...
+### Ai wIlL rEpLaCe Us
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n7x3fxo3ecma1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/khze3fa53fma1.png)
 
 ### Visitors Count 
 
