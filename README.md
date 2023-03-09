@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Ai wIlL rEpLaCe Us
+### ah yes, almost are genius one
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/khze3fa53fma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iew1vp4kflma1.jpg)
 
 ### Visitors Count 
 
