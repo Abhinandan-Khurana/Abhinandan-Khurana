@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### they have to be kidding me
+### BREAKING: Programmer finally found the answer to an old philosophical question
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uajq6cneuqma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/56t5v0yc0wma1.png)
 
 ### Visitors Count 
 
