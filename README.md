@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Please do not select
+### It amazes me how confident they are while writing these articles...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sdsev73etkma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o6bzc3jv6oma1.png)
 
 ### Visitors Count 
 
