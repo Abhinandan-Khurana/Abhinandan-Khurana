@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### BREAKING: Programmer finally found the answer to an old philosophical question
+### I mean, it’s one API, Michael. What could it cost? $42,000?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/56t5v0yc0wma1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/s9fykez7c1na1.jpg)
 
 ### Visitors Count 
 
