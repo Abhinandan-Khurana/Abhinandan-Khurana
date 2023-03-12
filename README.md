@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I mean, it’s one API, Michael. What could it cost? $42,000?
+### too smart to get played
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/s9fykez7c1na1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ndwvyk8ed4na1.jpg)
 
 ### Visitors Count 
 
