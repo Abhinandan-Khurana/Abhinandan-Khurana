@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Exactly how debugging is
+### I like your funny words magic man
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fib1j8y2acna1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tk0sqxwdkgna1.jpg)
 
 ### Visitors Count 
 
