@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### LinkedIn celebrities
+### Exactly how debugging is
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cw45jh45a7na1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fib1j8y2acna1.jpg)
 
 ### Visitors Count 
 
