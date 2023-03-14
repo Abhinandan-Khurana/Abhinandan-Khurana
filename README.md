@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### See unknow person with a problem in Stackoverflow: writes a library for her
+### AI Ethics
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qf0d3cq5rina1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dro3xw8m4nna1.png)
 
 ### Visitors Count 
 
