@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### AI Ethics
+### It just works
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dro3xw8m4nna1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rysn8p84iona1.png)
 
 ### Visitors Count 
 
