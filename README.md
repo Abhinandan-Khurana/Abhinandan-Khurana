@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Comment your last commit message
+### The new type of SQL injection
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/utju5ry36una1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2b0g44tvyzna1.jpg)
 
 ### Visitors Count 
 
