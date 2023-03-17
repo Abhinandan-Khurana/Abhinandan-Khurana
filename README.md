@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### This is why global variables are bad
+### Thank you senpai!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hc83rd6wy4oa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mooa711lo4oa1.jpg)
 
 ### Visitors Count 
 
