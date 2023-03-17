@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### The new type of SQL injection
+### This is why global variables are bad
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2b0g44tvyzna1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hc83rd6wy4oa1.jpg)
 
 ### Visitors Count 
 
