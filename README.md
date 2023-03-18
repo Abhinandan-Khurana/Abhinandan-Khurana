@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### This should do the trick
+### Linux IdeaPad server.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qlzssa9fecoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f1c4fnxnefoa1.jpg)
 
 ### Visitors Count 
 
