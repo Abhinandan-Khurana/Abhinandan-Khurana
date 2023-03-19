@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### There's Hope
+### React can't afford to go official
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jg3ygmekxjoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mp0z8yt6jjoa1.png)
 
 ### Visitors Count 
 
