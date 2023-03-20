@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### React can't afford to go official
+### 01011000 01001111 01010010
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mp0z8yt6jjoa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p8k0rv2tknoa1.png)
 
 ### Visitors Count 
 
