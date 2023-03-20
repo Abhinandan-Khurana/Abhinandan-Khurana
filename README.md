@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### 01011000 01001111 01010010
+### Give me one reason I shouldn’t take it. I’ll wait.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p8k0rv2tknoa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5xx8mdto6toa1.jpg)
 
 ### Visitors Count 
 
