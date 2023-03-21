@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Programmers in a couple of years...
+### GPT-4 vs Doggo
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4diqx0e9fvoa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jvs9ym358woa1.jpg)
 
 ### Visitors Count 
 
