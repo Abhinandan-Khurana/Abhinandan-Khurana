@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### GPT-4 vs Doggo
+### We call them Scrum Masters
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jvs9ym358woa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/drkadvrnxyoa1.jpg)
 
 ### Visitors Count 
 
