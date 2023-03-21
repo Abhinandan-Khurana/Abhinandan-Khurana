@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Give me one reason I shouldn’t take it. I’ll wait.
+### Programmers in a couple of years...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5xx8mdto6toa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4diqx0e9fvoa1.png)
 
 ### Visitors Count 
 
