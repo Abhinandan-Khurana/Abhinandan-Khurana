@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### We call them Scrum Masters
+### A crack in time saves nine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/drkadvrnxyoa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oa7511hph2pa1.png)
 
 ### Visitors Count 
 
