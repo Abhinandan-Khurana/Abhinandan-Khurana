@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### A crack in time saves nine
+### Logical OR operator IRL
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oa7511hph2pa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hxz1xtg328pa1.png)
 
 ### Visitors Count 
 
