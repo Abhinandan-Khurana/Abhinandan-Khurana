@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Logical OR operator IRL
+### Tech Jobs are safe 😅
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hxz1xtg328pa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/61pcnvvcx9pa1.jpg)
 
 ### Visitors Count 
 
