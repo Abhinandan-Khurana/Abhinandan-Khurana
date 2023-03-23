@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Tech Jobs are safe 😅
+### Gigachad Ken Thomson.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/61pcnvvcx9pa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/283ew0cn2dpa1.png)
 
 ### Visitors Count 
 
