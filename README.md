@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I only make computer screen size apps
+### Straight raw dogging vscode
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/i1zsudixvipa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/ecsr3dp.jpg)
 
 ### Visitors Count 
 
