@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Gigachad Ken Thomson.
+### I only make computer screen size apps
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/283ew0cn2dpa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/i1zsudixvipa1.jpg)
 
 ### Visitors Count 
 
