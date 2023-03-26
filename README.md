@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Finally something AI not very good at
+### This one never gets old
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/94x83d6zqvpa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yujh8gzbcypa1.png)
 
 ### Visitors Count 
 
