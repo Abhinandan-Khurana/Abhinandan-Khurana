@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Poor intern just made a small mistake
+### Finally something AI not very good at
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/whwze4hfvrpa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/94x83d6zqvpa1.png)
 
 ### Visitors Count 
 
