@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### is scratch considered a programming language?
+### Protest graffiti
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2ffbo1wd45qa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/82i8nHJ.jpg)
 
 ### Visitors Count 
 
