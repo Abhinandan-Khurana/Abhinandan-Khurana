@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Movies vs Real Life
+### is scratch considered a programming language?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xtdrfy1o02qa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2ffbo1wd45qa1.jpg)
 
 ### Visitors Count 
 
