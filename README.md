@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Protest graffiti
+### Twitter's source code has been leaked on GitHub
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/82i8nHJ.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/rxUv3cf.png)
 
 ### Visitors Count 
 
