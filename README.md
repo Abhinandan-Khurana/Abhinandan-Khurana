@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Twitter's source code has been leaked on GitHub
+### Programmers are never appreciated
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/rxUv3cf.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nn634b0iifqa1.jpg)
 
 ### Visitors Count 
 
