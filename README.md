@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Programmers are never appreciated
+### Starbucks intern hard at work
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nn634b0iifqa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fohfusmcmjqa1.jpg)
 
 ### Visitors Count 
 
