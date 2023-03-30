@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Stop
+### Poor seank
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/9SimHEj.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/st1w1vo3ooqa1.png)
 
 ### Visitors Count 
 
