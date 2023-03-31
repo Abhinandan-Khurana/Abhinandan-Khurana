@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### A glimpse of the future
+### And how to get a golden badge for deleting posts?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/05775e7zurqa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gt1vcndeqsqa1.jpg)
 
 ### Visitors Count 
 
