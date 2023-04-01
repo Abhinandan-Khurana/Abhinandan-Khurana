@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### PHP is Frankenstein
+### what
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/46bz1c6zo3ra1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/udro8h0jcara1.jpg)
 
 ### Visitors Count 
 
