@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Come on, come on... Show us how to do it...
+### Please help me find the error
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d69y2ly7lnra1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0f8z3abi4tra1.jpg)
 
 ### Visitors Count 
 
