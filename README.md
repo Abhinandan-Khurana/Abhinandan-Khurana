@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### That's better
+### Do you prefer getting from String to Enum by car or by boat?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/254twe19ewra1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iqoiw31531sa1.png)
 
 ### Visitors Count 
 
