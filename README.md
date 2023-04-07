@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### What do you do to achieve this catastrophy?
+### Web search optimization seeps into the physical world
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qt0jwdo498sa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bnpy169ltbsa1.png)
 
 ### Visitors Count 
 
