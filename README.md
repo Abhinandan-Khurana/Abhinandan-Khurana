@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Gee I wonder why nobody has tried to do this before
+### Uber of Amazons or Amazon of Uber, I do not know
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/acjvti07ehsa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4577pypiuhsa1.png)
 
 ### Visitors Count 
 
