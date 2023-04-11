@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Good luck debugging that
+### god why is coding chess so hard
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3xc6v9rw9wsa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5mkc2nukl2ta1.png)
 
 ### Visitors Count 
 
