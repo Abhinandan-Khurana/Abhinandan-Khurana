@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### This is true
+### Revenge 😈
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9x5ws7uvk6ta1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mn7kk15oq9ta1.jpg)
 
 ### Visitors Count 
 
