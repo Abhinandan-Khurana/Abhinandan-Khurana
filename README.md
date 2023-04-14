@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### My experience a CS grad nowadays
+### Every new project be like...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u582tcpxlnta1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/3vtlt3cwlrta1.jpg)
 
 ### Visitors Count 
 
