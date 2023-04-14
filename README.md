@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### We care for you legally
+### My experience a CS grad nowadays
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/yto2lironmta1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u582tcpxlnta1.png)
 
 ### Visitors Count 
 
