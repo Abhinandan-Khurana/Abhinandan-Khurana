@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Well well well
+### JavaScript forbidden practices. Part 3: angry function
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bejcn16jd4ua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1d7i7o5hc7ua1.png)
 
 ### Visitors Count 
 
