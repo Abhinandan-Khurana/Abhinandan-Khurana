@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Finally complete freedom
+### Well well well
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/if5ikirzf0ua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bejcn16jd4ua1.jpg)
 
 ### Visitors Count 
 
