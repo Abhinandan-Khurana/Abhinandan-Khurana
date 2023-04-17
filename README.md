@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### JavaScript forbidden practices. Part 3: angry function
+### Surprised Pikachu face...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1d7i7o5hc7ua1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9sm1t0q1xbua1.jpg)
 
 ### Visitors Count 
 
