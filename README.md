@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Surprised Pikachu face...
+### Familiar feeling?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9sm1t0q1xbua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8lb58x8oxgua1.jpg)
 
 ### Visitors Count 
 
