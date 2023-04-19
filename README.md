@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Familiar feeling?
+### Are you a good developer ?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8lb58x8oxgua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8uo0znuwcnua1.jpg)
 
 ### Visitors Count 
 
