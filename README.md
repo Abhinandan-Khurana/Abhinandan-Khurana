@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Are you a good developer ?
+### Which one of you bozos did it?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8uo0znuwcnua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aeucop8mupua1.png)
 
 ### Visitors Count 
 
