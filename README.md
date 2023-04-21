@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### varchar(255)
+### As one becomes smarter, the other becomes dumber
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gh2parelc1va1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bo0e4tici7va1.jpg)
 
 ### Visitors Count 
 
