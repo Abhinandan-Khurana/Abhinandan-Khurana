@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### 4 engineers
+### varchar(255)
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/30l7bhftyzua1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gh2parelc1va1.jpg)
 
 ### Visitors Count 
 
