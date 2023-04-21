@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Even better gender selector
+### 4 engineers
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1fyzhpf5rwua1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/30l7bhftyzua1.jpg)
 
 ### Visitors Count 
 
