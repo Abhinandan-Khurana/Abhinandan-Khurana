@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Stock photo horror
+### Coding is like :
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x1pmiicv69va1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c8954abfqbva1.jpg)
 
 ### Visitors Count 
 
