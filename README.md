@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Coding is like :
+### What legacy code feels like according to this sub. Never to be read, never to be questioned
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/c8954abfqbva1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y7x8y4l4rdva1.png)
 
 ### Visitors Count 
 
