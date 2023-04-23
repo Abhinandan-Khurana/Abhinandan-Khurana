@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Totally worth it
+### Why can't you make good jokes? ME:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4lu1860gdhva1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xox5bzm10nva1.jpg)
 
 ### Visitors Count 
 
