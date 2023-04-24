@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### sss language of snakes
+### Yikes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/197ca570ymva1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dmuvdmosdpva1.jpg)
 
 ### Visitors Count 
 
