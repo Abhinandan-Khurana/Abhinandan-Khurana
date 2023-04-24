@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Why can't you make good jokes? ME:
+### sss language of snakes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xox5bzm10nva1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/197ca570ymva1.jpg)
 
 ### Visitors Count 
 
