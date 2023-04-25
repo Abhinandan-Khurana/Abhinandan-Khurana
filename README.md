@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Hi, 2 months ago I started work as Junior dev. Last week I killed production for the first time so I thought it would be fun to have a Bingo card full of things that the "new guys" tend to f-up or things that will happen sooner or later :D Please help me fill in the blanks!
+### Family member hit me with this
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jjubz370ztva1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b0zy7d9u70wa1.jpg)
 
 ### Visitors Count 
 
