@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### It does make life easier
+### skill issue
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rmef9hfjp2wa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nkjo1ct5d6wa1.png)
 
 ### Visitors Count 
 
