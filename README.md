@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Family member hit me with this
+### It does make life easier
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/b0zy7d9u70wa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rmef9hfjp2wa1.jpg)
 
 ### Visitors Count 
 
