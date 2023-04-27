@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### skill issue
+### How to write good code
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nkjo1ct5d6wa1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/8s40Ngu.png)
 
 ### Visitors Count 
 
