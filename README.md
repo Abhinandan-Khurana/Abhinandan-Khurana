@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Emotional damage
+### Years of academic training prepared me for this moment
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qfv92xcopdwa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j3s2m2iv0fwa1.png)
 
 ### Visitors Count 
 
