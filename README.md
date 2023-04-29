@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### But it's running!
+### Software developers in 60s
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r33xgelkukwa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hp4e5stu4pwa1.jpg)
 
 ### Visitors Count 
 
