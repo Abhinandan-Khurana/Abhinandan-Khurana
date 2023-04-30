@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### 500 lines in 2013 is 10k in 2023, inflation you know
+### 💀💀💀
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ah0d4ylo1vwa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kemvqp0olwwa1.jpg)
 
 ### Visitors Count 
 
