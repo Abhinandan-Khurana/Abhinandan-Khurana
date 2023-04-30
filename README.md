@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Software developers in 60s
+### If ChatGPT learned from Stack Overflow
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hp4e5stu4pwa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v9ifky4uxtwa1.png)
 
 ### Visitors Count 
 
