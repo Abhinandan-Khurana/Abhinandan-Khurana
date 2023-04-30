@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### If ChatGPT learned from Stack Overflow
+### 500 lines in 2013 is 10k in 2023, inflation you know
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v9ifky4uxtwa1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ah0d4ylo1vwa1.png)
 
 ### Visitors Count 
 
