@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When does it stop?
+### Looks great on my machine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5izq2xc8j2xa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/j0v40dj688xa1.jpg)
 
 ### Visitors Count 
 
