@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Looks great on my machine
+### AI is taking over
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/j0v40dj688xa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l2pzxryu5gxa1.jpg)
 
 ### Visitors Count 
 
