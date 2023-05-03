@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### AI is taking over
+### How to make sure your scrums end on time
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l2pzxryu5gxa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9sdkjt9h2ixa1.png)
 
 ### Visitors Count 
 
