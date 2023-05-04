@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### How to make sure your scrums end on time
+### I'm new to this, am I doing this right?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9sdkjt9h2ixa1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/uiuF5K5.png)
 
 ### Visitors Count 
 
