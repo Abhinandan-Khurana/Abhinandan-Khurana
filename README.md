@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Our CS senior class learned some great coding conventions
+### Get gnu gnu'd
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/vr8po64h0oxa1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qjblgwggetxa1.jpg)
 
 ### Visitors Count 
 
