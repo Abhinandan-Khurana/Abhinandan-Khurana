@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Helicopter Helicopter
+### Get ready for the big Bang
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p433hvmxi0ya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wzs96b2gq5ya1.jpg)
 
 ### Visitors Count 
 
