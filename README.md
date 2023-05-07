@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Get ready for the big Bang
+### Idk why this came to my mind
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wzs96b2gq5ya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/62ahw40k8aya1.jpg)
 
 ### Visitors Count 
 
