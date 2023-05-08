@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Don't we all know someone like that?
+### Trying to get the number of elements in a collection
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hjie2vwg9fya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8dep2ivu5kya1.png)
 
 ### Visitors Count 
 
