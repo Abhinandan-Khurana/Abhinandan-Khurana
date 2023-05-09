@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### warning: strong language 😬
+### When accessibility is actually a bug
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/89t4fkzpunya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dhq5ari1hoya1.png)
 
 ### Visitors Count 
 
