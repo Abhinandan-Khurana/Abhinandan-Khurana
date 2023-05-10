@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### management has sent a meeting request
+### It's always far worse when you know it won't work, but does
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ehh20ywevtya1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tx6ogw2jpxya1.png)
 
 ### Visitors Count 
 
