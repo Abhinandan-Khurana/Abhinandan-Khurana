@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### It's always far worse when you know it won't work, but does
+### So Hows the Hackathon Going?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tx6ogw2jpxya1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1q1j85vu54za1.jpg)
 
 ### Visitors Count 
 
