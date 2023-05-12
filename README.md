@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### So Hows the Hackathon Going?
+### I don't get it
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1q1j85vu54za1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k6er87zp25za1.png)
 
 ### Visitors Count 
 
