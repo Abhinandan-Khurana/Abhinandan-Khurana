@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Hotfix
+### And also, you are very beautiful! Continue your day! Anyways, here is your stack trace:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sbn5lb0lf7za1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bb9c6jcqz8za1.png)
 
 ### Visitors Count 
 
