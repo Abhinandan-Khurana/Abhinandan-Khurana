@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When I got a chance to work on projects from scratch…
+### I'll use a hashmap 😛
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mf7ks2fytdza1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mr1k5vc3skza1.jpg)
 
 ### Visitors Count 
 
