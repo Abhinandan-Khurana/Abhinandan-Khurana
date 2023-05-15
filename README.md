@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### While stuck in a "backlog grooming" meeting
+### Burndown charts be like...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2u72y8l4npza1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/l5j22hwp2uza1.png)
 
 ### Visitors Count 
 
