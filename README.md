@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Teams: several people are typing …
+### You can give them mine.
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/BD0c57I.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k2tuligvyyza1.jpg)
 
 ### Visitors Count 
 
