@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Burndown charts be like...
+### Teams: several people are typing …
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l5j22hwp2uza1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/BD0c57I.jpg)
 
 ### Visitors Count 
 
