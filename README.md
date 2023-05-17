@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### CSS Dev Award. Guess I gotta print one now...
+### My experience as a professional programmer for 6 years. Anyone else?
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jbei2s0bn40b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ewhyk2us670b1.png)
 
 ### Visitors Count 
 
