@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### My experience as a professional programmer for 6 years. Anyone else?
+### Nah, I got this...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ewhyk2us670b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k2w1bap1ed0b1.jpg)
 
 ### Visitors Count 
 
