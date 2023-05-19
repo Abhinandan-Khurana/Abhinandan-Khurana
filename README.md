@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### That regex match you trusted too much
+### One of my friends has just started life as a professional programmer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8hetavm2fk0b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/Q2jpCS9.jpg)
 
 ### Visitors Count 
 
