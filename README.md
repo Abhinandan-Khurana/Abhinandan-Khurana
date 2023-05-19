@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### AWS released EC2 in 2006. People before 2006:
+### That regex match you trusted too much
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ntvg91zd2k0b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8hetavm2fk0b1.jpg)
 
 ### Visitors Count 
 
