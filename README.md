@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Caption this
+### Guilty as charged
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nmrqg1ezrt0b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/fxfxh6e86v0b1.jpg)
 
 ### Visitors Count 
 
