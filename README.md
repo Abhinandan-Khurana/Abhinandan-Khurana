@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Unit Tests?
+### I really didn't know how to react to this, other than to post it here...
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1autuomaf31b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b9cze5kn571b1.jpg)
 
 ### Visitors Count 
 
