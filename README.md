@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Step 1 of being a programmer: Oh that should be easy.
+### Every frontend web dev for some reason
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/um7lud7opf1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xka3j092ki1b1.png)
 
 ### Visitors Count 
 
