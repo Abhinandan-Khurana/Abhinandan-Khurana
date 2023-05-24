@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Every frontend web dev for some reason
+### AI has breached containment. Call your loved ones
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xka3j092ki1b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8bfv5x2dkl1b1.jpg)
 
 ### Visitors Count 
 
