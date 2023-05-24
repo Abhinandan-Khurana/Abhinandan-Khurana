@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### AI has breached containment. Call your loved ones
+### Well that’s one way to look at things.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8bfv5x2dkl1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jldxnyhdsq1b1.jpg)
 
 ### Visitors Count 
 
