@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Sounds about right
+### Productivity is an illusion
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ecl9f276es1b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/svwxfiyidz1b1.jpg)
 
 ### Visitors Count 
 
