@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Good luck debugging this
+### No! My IDE is not enough productive
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1mxs6jjap62b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mc03y4575d2b1.png)
 
 ### Visitors Count 
 
