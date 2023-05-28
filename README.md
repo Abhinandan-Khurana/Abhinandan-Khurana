@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Me after trying to use Git with Eclipse
+### A funny language
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/6n9vdqrbgf2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1zo8auzjlk2b1.jpg)
 
 ### Visitors Count 
 
