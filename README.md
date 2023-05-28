@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### No! My IDE is not enough productive
+### Me after trying to use Git with Eclipse
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mc03y4575d2b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/6n9vdqrbgf2b1.jpg)
 
 ### Visitors Count 
 
