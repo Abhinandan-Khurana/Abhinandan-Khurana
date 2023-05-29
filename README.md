@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When people assume open source also means open to contribution
+### Imagine pulling your hair out trying to fix the servers for an entire day only to find out that it's because some mf made a recursive tweet.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zcffb0mi2k2b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jhq52bv2pm2b1.png)
 
 ### Visitors Count 
 
