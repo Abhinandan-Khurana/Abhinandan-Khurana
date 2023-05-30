@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Senior
+### Very different photos. Very similar times.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/e6moj9hy3q2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/roclzb42st2b1.png)
 
 ### Visitors Count 
 
