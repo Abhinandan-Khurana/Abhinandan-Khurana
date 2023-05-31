@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Mentally sanest LinkedIn recruiter
+### everyone's happy 😂
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uutea72gsx2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q8ipos03zz2b1.jpg)
 
 ### Visitors Count 
 
