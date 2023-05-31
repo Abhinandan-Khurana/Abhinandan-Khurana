@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### everyone's happy 😂
+### Mother Nature committed quite a few times on this branch
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q8ipos03zz2b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gyti2s3ck53b1.jpg)
 
 ### Visitors Count 
 
