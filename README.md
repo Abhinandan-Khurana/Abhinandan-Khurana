@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Mother Nature committed quite a few times on this branch
+### Me thinking it’s impossible to do what my friends do.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gyti2s3ck53b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ontomww9n73b1.jpg)
 
 ### Visitors Count 
 
