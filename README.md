@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Me thinking it’s impossible to do what my friends do.
+### Definitely not my post, either.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ontomww9n73b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/przq4ior593b1.jpg)
 
 ### Visitors Count 
 
