@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### little does he know 😂
+### uh oh
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d40wozinhn3b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/t45bxn9sht3b1.jpg)
 
 ### Visitors Count 
 
