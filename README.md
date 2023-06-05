@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Java 21 will introduce Unnamed Classes and Instance Main Methods
+### At the expense of compromising availability
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wzg7xwu7ry3b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/92vx0l2g134b1.jpg)
 
 ### Visitors Count 
 
