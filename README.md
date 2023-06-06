@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Making my CV (fresh out of uni) - probably not unique but I think it's a fun little addition anyway
+### Alright I'ma go ask chatgpt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ppv68uejk64b1.png)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/Nfzn8x0.png)
 
 ### Visitors Count 
 
