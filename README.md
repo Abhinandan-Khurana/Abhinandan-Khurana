@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Alright I'ma go ask chatgpt
+### Programmer Humor will be shutting down indefinitely on June 12th to protest Reddit's recent API changes which kill 3rd party apps.
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/Nfzn8x0.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xcnybmgwe94b1.png)
 
 ### Visitors Count 
 
