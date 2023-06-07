@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### If only there had been a version control system
+### I found this abomination while scrolling MSN
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7rgezahs7e4b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/39gs06depf4b1.jpg)
 
 ### Visitors Count 
 
