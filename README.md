@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Programmer Humor will be shutting down indefinitely on June 12th to protest Reddit's recent API changes which kill 3rd party apps.
+### If only there had been a version control system
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/xcnybmgwe94b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7rgezahs7e4b1.png)
 
 ### Visitors Count 
 
