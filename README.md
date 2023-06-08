@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### Qoura at it's finest
+### You and me Anon, you and me
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/m0rqstherk4b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dam1aj038q4b1.jpg)
 
 ### Visitors Count 
 
