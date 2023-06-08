@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I found this abomination while scrolling MSN
+### Happy children!
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/39gs06depf4b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/494gbukd6j4b1.jpg)
 
 ### Visitors Count 
 
