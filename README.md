@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### You and me Anon, you and me
+### we're safe fellas
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dam1aj038q4b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m8u59kwz7r4b1.jpg)
 
 ### Visitors Count 
 
