@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### All you need is a % completion popup
+### K.I.S.S.
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5ln9c8zwdy4b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/nn84jpbuj35b1.jpg)
 
 ### Visitors Count 
 
