@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### I present to you: The textbook CEO
+### When your shower uses GitHub more than you:
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/616ijgmgb75b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rb6ur6152c5b1.jpg)
 
 ### Visitors Count 
 
