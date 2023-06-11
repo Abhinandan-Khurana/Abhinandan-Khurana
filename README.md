@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### K.I.S.S.
+### I present to you: The textbook CEO
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nn84jpbuj35b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/616ijgmgb75b1.jpg)
 
 ### Visitors Count 
 
