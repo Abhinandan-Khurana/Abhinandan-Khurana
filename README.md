@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### When your shower uses GitHub more than you:
+### whenAProgramTellsYouToJustFollowTheInstallationWizard
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rb6ur6152c5b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.imgur.com/wRZIEg1.png)
 
 ### Visitors Count 
 
