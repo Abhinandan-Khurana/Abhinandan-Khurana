@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whenAProgramTellsYouToJustFollowTheInstallationWizard
+### postingAgainBecauseItWasNotCamelCase
 
-![ProgrammerHumour Meme of the Day](https://i.imgur.com/wRZIEg1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/klzajsw0lf7b1.jpg)
 
 ### Visitors Count 
 
