@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### itsHardSometimes
+### doNotDespairEverythingIsAhead
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pj1rnfz7ni7b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/63w7hw0uxl7b1.jpg)
 
 ### Visitors Count 
 
