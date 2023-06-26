@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### networkingStarterPack
+### jobApplicationTroubles
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uyyjc3ybq58b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bt2invmc5b8b1.jpg)
 
 ### Visitors Count 
 
