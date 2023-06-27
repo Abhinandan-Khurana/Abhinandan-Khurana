@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### jobApplicationTroubles
+### divideAndIgnoreAlgorithm
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bt2invmc5b8b1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/baz9f9nqgd8b1.jpg)
 
 ### Visitors Count 
 
