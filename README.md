@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### allowImportWithoutCodeblocksBecauseRuleDoesntRequireIt
+### pythonAndTurtle
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/es4hszujxr8b1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/07fxoynepw8b1.png)
 
 ### Visitors Count 
 
