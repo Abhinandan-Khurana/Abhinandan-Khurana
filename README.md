@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### myMagicCode
+### pearlsBeforeSwine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y3by4l87pdab1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kppqf59mqeab1.png)
 
 ### Visitors Count 
 
