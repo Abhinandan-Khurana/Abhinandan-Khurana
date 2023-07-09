@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whosGonnaTellHim
+### theChatGptEffect
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/smq3im6jslab1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hw4q7odbopab1.jpg)
 
 ### Visitors Count 
 
