@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### funAndEasyToUse
+### emotionalIntelligence
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u770tbtz0dbb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/as7vcwfyodbb1.png)
 
 ### Visitors Count 
 
