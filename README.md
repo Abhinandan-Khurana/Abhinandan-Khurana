@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### cantGetHackedIfYouCantUseComputer
+### jayWasSecond
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/w9ht37dziubb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9o17h63suzbb1.jpg)
 
 ### Visitors Count 
 
