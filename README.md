@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### jayWasSecond
+### theLegendsAreTrue
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/9o17h63suzbb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7qkkyei2v4cb1.png)
 
 ### Visitors Count 
 
