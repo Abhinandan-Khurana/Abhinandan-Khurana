@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### fontSizeNotForScaling
+### anInfiniteLoop
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uzs6axr1xbcb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1xnem7j5necb1.jpg)
 
 ### Visitors Count 
 
