@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### programmingIsHard
+### howDoYouBreakTheMostEssentialFeature
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eegxpa8vfjcb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/m2d8dihhnncb1.jpg)
 
 ### Visitors Count 
 
