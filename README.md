@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### itNeverDoesWhatItIsSupposedTo
+### trueHappiness
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/x613yvbc9pcb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mnty5u3b4tcb1.png)
 
 ### Visitors Count 
 
