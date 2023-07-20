@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### javaMicrosoftEdition
+### oopsIBrokeIt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/72kvkmeh0vcb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rzam1qtxcycb1.png)
 
 ### Visitors Count 
 
