@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### iSwearIfThisIsWhatJobCompetitionLooksLike
+### hollywoodIdeExe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tuobwta6kadb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a078hzy4rddb1.png)
 
 ### Visitors Count 
 
