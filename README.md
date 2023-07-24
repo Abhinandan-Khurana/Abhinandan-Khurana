@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### heIsNotWrong
+### believeItOrNot
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/04e342jlmjdb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/cwdjbfwocpdb1.png)
 
 ### Visitors Count 
 
