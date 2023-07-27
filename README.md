@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### oldButGold
+### shotsFired
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lurv2i5em8eb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zw66vck6tbeb1.jpg)
 
 ### Visitors Count 
 
