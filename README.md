@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### onlyWhenApplicableOfCourse
+### justAByte
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u1y91r0yimeb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/lohp88v1ipeb1.jpg)
 
 ### Visitors Count 
 
