@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### itsNotThatHard
+### highLatencyThough
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eplym7sosveb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5a7dp0g0j1fb1.png)
 
 ### Visitors Count 
 
