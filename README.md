@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### ForgettingCodeIsEasyAndSmooth
+### itsNotThatHard
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/adj5uf565reb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/eplym7sosveb1.jpg)
 
 ### Visitors Count 
 
