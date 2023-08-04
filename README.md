@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### easyFix
+### whyIsItSoHard
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u0aahkv2qufb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/awnft5sp5xfb1.png)
 
 ### Visitors Count 
 
