@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### itsAHardKnockLifeForUs
+### dearSanta
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wmt3j47awigb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/n9gnhyhcjmgb1.jpg)
 
 ### Visitors Count 
 
