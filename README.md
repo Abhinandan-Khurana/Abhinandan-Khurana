@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### larryTeslerInventorOfTheCutCopyPasteCommandsDiesAt74
+### literallyEveryInterviewIHaveEverDone
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rts7s8trbtgb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ocemt8mrnvgb1.jpg)
 
 ### Visitors Count 
 
