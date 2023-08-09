@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### literallyEveryInterviewIHaveEverDone
+### MeLearningPython
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ocemt8mrnvgb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oz8u410xc1hb1.jpg)
 
 ### Visitors Count 
 
