@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### bingBeingHelpful
+### howToMakeCodeTrulyReadable
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gh7q9a8t49hb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/mv8byscpifhb1.jpg)
 
 ### Visitors Count 
 
