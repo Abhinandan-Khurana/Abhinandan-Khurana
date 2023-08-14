@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### mustLearnRust
+### weAllKnowWhatIsGoingToHappen
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zjjkwpvzlphb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ihkhpg7wjuhb1.jpg)
 
 ### Visitors Count 
 
