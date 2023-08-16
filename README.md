@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### logicBeLike
+### whatIsTheRegexForThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/t6buq8nz27ib1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/8sfyz3wxp9ib1.png)
 
 ### Visitors Count 
 
