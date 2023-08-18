@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### sadlyBecameMarketingBuzzwords
+### recursion
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/5yxugw35hjib1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jju8ldbm0pib1.jpg)
 
 ### Visitors Count 
 
