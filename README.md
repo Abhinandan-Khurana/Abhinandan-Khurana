@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### recursion
+### NextLevelPasswordResetAlgorithm
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jju8ldbm0pib1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sgkha9pn6tib1.jpg)
 
 ### Visitors Count 
 
