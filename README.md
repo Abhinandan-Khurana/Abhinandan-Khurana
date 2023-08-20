@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### programmersArePhilosophers
+### whichOneOfYouProgrammedThisAlarmClock
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/mkz1fbruq2jb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kzyrkx1za6jb1.jpg)
 
 ### Visitors Count 
 
