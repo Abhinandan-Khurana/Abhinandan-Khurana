@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whichOneOfYouProgrammedThisAlarmClock
+### theRealReasonWhyLinuxIsSaferThanOtherOS
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/kzyrkx1za6jb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dwprcgitkejb1.png)
 
 ### Visitors Count 
 
