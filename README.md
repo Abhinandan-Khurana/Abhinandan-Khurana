@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### thisIsWhatYouWereHiredFor
+### iUseLinuxBtw
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/htl12i4q6njb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/gfv0mqhkxojb1.jpg)
 
 ### Visitors Count 
 
