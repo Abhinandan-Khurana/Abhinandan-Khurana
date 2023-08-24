@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### thisShouldBeIllegal
+### amIAFakeWebDeveloper
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gn36cx106vjb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ygoyp0079yjb1.png)
 
 ### Visitors Count 
 
