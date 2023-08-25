@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### theTormentOfItAll
+### weAreZecurity
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jpu3g58or1kb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/7tuzv70i05kb1.jpg)
 
 ### Visitors Count 
 
