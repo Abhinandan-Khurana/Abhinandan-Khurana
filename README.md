@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### noOneUsesDir
+### itWorksInMyCompany
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lj9drd1sg8kb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f4w6t0mslekb1.png)
 
 ### Visitors Count 
 
