@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### PathWars
+### everySingleTime
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1v91w0i8jmkb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/rxo1av0jmtkb1.png)
 
 ### Visitors Count 
 
