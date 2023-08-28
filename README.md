@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whatIsAFolder
+### PathWars
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4ai705yurikb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1v91w0i8jmkb1.jpg)
 
 ### Visitors Count 
 
