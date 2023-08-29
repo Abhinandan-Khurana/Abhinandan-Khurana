@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### everySingleTime
+### neverThoughtOfItThatWayNotOP
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/rxo1av0jmtkb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/dvrbjiojezkb1.jpg)
 
 ### Visitors Count 
 
