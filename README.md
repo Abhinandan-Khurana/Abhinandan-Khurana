@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### neverThoughtOfItThatWayNotOP
+### ourBlessedDepartment
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dvrbjiojezkb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/40el7txad3lb1.png)
 
 ### Visitors Count 
 
