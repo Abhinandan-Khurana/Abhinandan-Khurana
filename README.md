@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### theWorstLanguageEver
+### datafag
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/49394km42olb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/yw7vw97kutlb1.png)
 
 ### Visitors Count 
 
