@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### cancelChatGPT
+### takeNotesGuys
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/n3va95hk4zlb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wsk7sl6n03mb1.png)
 
 ### Visitors Count 
 
