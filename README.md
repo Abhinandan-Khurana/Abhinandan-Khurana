@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### ifYouDoThisYouSuck
+### SheHelpedCreatingJS
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/1xykhtucdgmb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q7ahmr4b6lmb1.jpg)
 
 ### Visitors Count 
 
