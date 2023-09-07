@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### WhileTechnicallyTrueDotDotDot
+### prodIsDamagedBeyondRepair
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/78g82zit9nmb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bif7il0acsmb1.jpg)
 
 ### Visitors Count 
 
