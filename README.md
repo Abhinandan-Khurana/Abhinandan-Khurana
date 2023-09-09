@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### WorkEffeciencyWhatsThat
+### iamnewToCodingandEverybodyElseLaughed
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y3xu810pevmb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/e2pcl79mi0nb1.jpg)
 
 ### Visitors Count 
 
