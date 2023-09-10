@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### tsVsJs
+### TheseCaptainAmericaMemes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wq7hf80803nb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/p0rcoeigu6nb1.png)
 
 ### Visitors Count 
 
