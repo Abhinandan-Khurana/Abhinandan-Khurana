@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### soEasy
+### pleaseDoNotFireMe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wke82xez7cnb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/quhlf13ivfnb1.png)
 
 ### Visitors Count 
 
