@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### MathLoops
+### microsoftGotLaid
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y5hfect6nqnb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5hbgvohpfunb1.png)
 
 ### Visitors Count 
 
