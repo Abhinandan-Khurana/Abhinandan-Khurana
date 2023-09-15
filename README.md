@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### howUnrealUnityIsActing
+### howDoIremoveCommitHistory
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/pwu0j96tl5ob1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tr5o9uca79ob1.jpg)
 
 ### Visitors Count 
 
