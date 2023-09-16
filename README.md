@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### howDoIremoveCommitHistory
+### whatDoesThisEvenMean
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tr5o9uca79ob1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/x5xebeu03dob1.png)
 
 ### Visitors Count 
 
