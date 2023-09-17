@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### hopeThisDoesntMeanWhatIThinkItDoes
+### sometimesProcrastinationIsGood
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ye8wv86w0hob1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/unr1st5womob1.jpg)
 
 ### Visitors Count 
 
