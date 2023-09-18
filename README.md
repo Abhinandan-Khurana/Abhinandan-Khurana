@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### webDevFtw
+### brainNotFound
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ycxy18v7joob1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/iitv1totjsob1.png)
 
 ### Visitors Count 
 
