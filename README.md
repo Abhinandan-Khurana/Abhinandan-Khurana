@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### brainNotFound
+### whereIsPokemon
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/iitv1totjsob1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4h0437kglxob1.jpg)
 
 ### Visitors Count 
 
