@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### newSortingAlgorithmJustDropped
+### NPMIsOwnedByMicrosoftAsWell
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/h60vz182v5pb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oo7o61qec7pb1.jpg)
 
 ### Visitors Count 
 
