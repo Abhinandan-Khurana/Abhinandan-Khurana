@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### NPMIsOwnedByMicrosoftAsWell
+### actualConversationAtWork
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/oo7o61qec7pb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/aplv72795dpb1.jpg)
 
 ### Visitors Count 
 
