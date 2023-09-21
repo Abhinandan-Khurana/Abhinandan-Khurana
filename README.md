@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### actualConversationAtWork
+### TheWorldIsNotReadyForThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/aplv72795dpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/oc6wyn5y1gpb1.jpg)
 
 ### Visitors Count 
 
