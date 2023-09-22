@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### andItsGettingWorse
+### conspiracyForever
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/gcyieo4erkpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/w8ef9ojijopb1.png)
 
 ### Visitors Count 
 
