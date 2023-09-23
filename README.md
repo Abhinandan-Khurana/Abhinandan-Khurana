@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### kompilingKode
+### cyberSecurityExpert
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/y4qf2rh8itpb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qy48wynd9vpb1.jpg)
 
 ### Visitors Count 
 
