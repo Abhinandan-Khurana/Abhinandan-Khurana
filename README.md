@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### branchNaming
+### kompilingKode
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/7hauceyw2qpb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/y4qf2rh8itpb1.jpg)
 
 ### Visitors Count 
 
