@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### thatsTheMomentWhenYouRealizeThereIsLotMoreToLearn
+### academiaHonestly
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qekq037yd8qb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/d3f53bmxfdqb1.png)
 
 ### Visitors Count 
 
