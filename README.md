@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### academiaHonestly
+### momPickMeUpImScared
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/d3f53bmxfdqb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/deug3z4t0fqb1.jpg)
 
 ### Visitors Count 
 
