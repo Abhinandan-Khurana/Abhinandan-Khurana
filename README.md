@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### nakedFunctions
+### trainsRunOnMe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/dbwgalb71tqb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wy1u724cdyqb1.png)
 
 ### Visitors Count 
 
