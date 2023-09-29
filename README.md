@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### trainsRunOnMe
+### dontJudgeDevelopersByTheLooks
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/wy1u724cdyqb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xi9mq9vhz0rb1.jpg)
 
 ### Visitors Count 
 
