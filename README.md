@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### explainItLikeIAmAFreshmen
+### imUsingHiMomInsteadOfHelloWorldFromNowOn
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u71346yf87rb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/4qpnizs579rb1.jpg)
 
 ### Visitors Count 
 
