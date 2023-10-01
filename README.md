@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### imUsingHiMomInsteadOfHelloWorldFromNowOn
+### NowWhichOneOfYouDidThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4qpnizs579rb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9vvvz9kkfcrb1.jpg)
 
 ### Visitors Count 
 
