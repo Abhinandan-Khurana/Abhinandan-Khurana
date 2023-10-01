@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### userWithThisAgeAlreadyExists
+### DefFromDefine
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ri26gwwuxcrb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/xhtfaiztlfrb1.jpg)
 
 ### Visitors Count 
 
