@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### peakHackerAbilityUnlocked
+### asAProgrammerIWouldNeverGetThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/nb9nrguyqkrb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/893t84kbvmrb1.jpg)
 
 ### Visitors Count 
 
