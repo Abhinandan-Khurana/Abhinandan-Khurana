@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### pleaseStopWritingC
+### wherePhoneCall
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/zn1tvrrwvwrb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/5e9rfvb0d1sb1.jpg)
 
 ### Visitors Count 
 
