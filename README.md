@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### sorryNotSorry
+### whyCppWhy
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sbky1zt50msb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/bz4af2eorssb1.png)
 
 ### Visitors Count 
 
