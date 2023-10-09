@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### gaveMeMigraine
+### iSeeNoLie
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8m0fnlknjxsb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/709johbiz0tb1.png)
 
 ### Visitors Count 
 
