@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### iSeeNoLie
+### overtime
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/709johbiz0tb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/wbbfe8llc3tb1.jpg)
 
 ### Visitors Count 
 
