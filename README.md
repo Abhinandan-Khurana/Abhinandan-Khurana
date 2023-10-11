@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### thereIsAlwaysABiggerFish
+### rookieMistakeInPython
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/phl1e26gw7tb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/uxyhnvcmjbtb1.jpg)
 
 ### Visitors Count 
 
