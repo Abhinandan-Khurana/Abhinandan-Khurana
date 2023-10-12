@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### everyoneKnowsThat
+### wontHappenAgain
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v8ntdarhqltb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kmz3jgzlwltb1.jpg)
 
 ### Visitors Count 
 
