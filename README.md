@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### allUnitTestsPassing
+### spammerAsAMillionaire
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/fv6vh4lm1xtb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2sp80qw781ub1.png)
 
 ### Visitors Count 
 
