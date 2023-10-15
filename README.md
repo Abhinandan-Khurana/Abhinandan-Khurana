@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### spammerAsAMillionaire
+### ObsidianTestingTheirUsers
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/2sp80qw781ub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/zxws46uz06ub1.png)
 
 ### Visitors Count 
 
