@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### writingCodeForMoneyIsFun
+### billionsInDebt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/p96oprz76kub1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qu3xr3lw8lub1.jpg)
 
 ### Visitors Count 
 
