@@ -32,7 +32,7 @@
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
 </p>
 
-- 👨🏽‍💻 I'm actively working as an AppSec Engineer @MoveInSync and constantly improving thier DevSecOps posture.
+- 👨🏽‍💻 I'm currently working as an AppSec Engineer @MoveInSync and constantly improving their DevSecOps posture.
 - 🌱 I’m profecient in - Python, Cloud Computing, Docker, shell scripting, PowerShell scripting, CTF challenges creation, Cryptography, Web Exploitation and Active Directory.
 - 👯 I’m looking to collaborate on online Webinars, projects - regarding Applicatoin Security, Open Source COntribution, Red Teaming, Bug Bounty and Tech Talks.
 - 😎 Love for science and innovation.
