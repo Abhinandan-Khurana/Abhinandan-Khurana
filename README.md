@@ -32,13 +32,13 @@
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
 </p>
 
-- 👨🏽‍💻 I'm actively working on improving my current skill-sets and broadening them at the same time.
-- 🌱 I’m currently learning - Python, Cloud Computing, Docker, shell scripting, CTF challenges creation, Cryptography and Web Exploitation.
-- 👯 I’m looking to collaborate on online Webinars, projects - regarding Cyber Security, Web Development, Microsoft Learn Student Ambassadors and Tech Talks.
-- 😎 Love for science and innovation
-- 💓 Passionate about Cyber Security, problem solving and automating boring stuffs.
-- 💬 Ask me about Cyber Security, I am delighted to help!
-- ⚡️ Hobbies: Hacking Coding Gaming and Anime
+- 👨🏽‍💻 I'm actively working as an AppSec Engineer @MoveInSync and constantly improving thier DevSecOps posture.
+- 🌱 I’m profecient in - Python, Cloud Computing, Docker, shell scripting, PowerShell scripting, CTF challenges creation, Cryptography, Web Exploitation and Active Directory.
+- 👯 I’m looking to collaborate on online Webinars, projects - regarding Applicatoin Security, Open Source COntribution, Red Teaming, Bug Bounty and Tech Talks.
+- 😎 Love for science and innovation.
+- 💓 Passionate about dogs, cats, anime, poetry, hacking, and family
+- 💬 Ask me about Application Security, Red Teaming, DevSecOps, I am delighted to help!
+- ⚡️ Hobbies: Hacking Poetry Coding Stargazing Moongazing Astronomy and Anime
 - 📫 How to reach me: [abhinandankhuranaoo7@gmail.com][Abhinandan.Khurana@studentambassadors.com]
 - 😄 Pronouns: He/Him
 <br><br>
