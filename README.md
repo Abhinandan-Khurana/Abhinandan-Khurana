@@ -34,7 +34,7 @@
 
 - 👨🏽‍💻 I'm currently working as an AppSec Engineer @MoveInSync and constantly improving their DevSecOps posture.
 - 🌱 I’m profecient in - Python, Cloud Computing, Docker, shell scripting, PowerShell scripting, CTF challenges creation, Cryptography, Web Exploitation and Active Directory.
-- 👯 I’m looking to collaborate on online Webinars, projects - regarding Applicatoin Security, Open Source COntribution, Red Teaming, Bug Bounty and Tech Talks.
+- 👯 I’m looking to collaborate on online Webinars, projects - regarding Applicatoin Security, Open Source Contribution, Red Teaming, Bug Bounty and Tech Talks.
 - 😎 Love for science and innovation.
 - 💓 Passionate about dogs, cats, anime, poetry, hacking, and family
 - 💬 Ask me about Application Security, Red Teaming, DevSecOps, I am delighted to help!
