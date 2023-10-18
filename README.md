@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### itsJustObjectivelyBetter
+### objectObject
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/itqcyv5kqrub1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/0afb24zprtub1.png)
 
 ### Visitors Count 
 
