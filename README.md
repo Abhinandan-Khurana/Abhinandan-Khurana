@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### NamingANewProgrammingLanguage
+### forHTMLPut1Line
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q5dnnbf4d7vb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/r8gh37xf3avb1.jpg)
 
 ### Visitors Count 
 
