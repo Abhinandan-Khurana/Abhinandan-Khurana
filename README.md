@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### imGladItsLikeThis
+### classic
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/08qs6wn0qrvb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b98ctuuhjvvb1.png)
 
 ### Visitors Count 
 
