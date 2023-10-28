@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### imATeapot
+### ImJenkinsForHalloween
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/3fbq63ksgpwb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sfot8o68dswb1.png)
 
 ### Visitors Count 
 
