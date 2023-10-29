@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### theLanguageBarrier
+### itJustRocks
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/v6wzupl5cywb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/qu4dnz1uo0xb1.jpg)
 
 ### Visitors Count 
 
