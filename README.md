@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whoAreYouWarrior
+### whatEverYouWantToCallIt
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/sgaat6n4z8xb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ssugxjptecxb1.jpg)
 
 ### Visitors Count 
 
