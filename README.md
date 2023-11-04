@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### secretRobotInternet
+### strikeTheFearOfGodIntoThemShowNoMercyMakeThemSuffer
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4s9korcfw1yb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/o16wi7xdx6yb1.jpg)
 
 ### Visitors Count 
 
