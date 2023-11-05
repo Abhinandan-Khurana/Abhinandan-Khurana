@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whoTheFckDoesThis
+### itLooksLikeThis
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/r505bwuhhbyb1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/a15ldhndaeyb1.jpg)
 
 ### Visitors Count 
 
