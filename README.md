@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### youAreNotSafeAnywhere
+### areTheyStupid
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/asua174u95zb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tfhnfioad8zb1.jpg)
 
 ### Visitors Count 
 
