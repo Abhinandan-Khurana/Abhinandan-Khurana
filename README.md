@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### finallySomeoneFoundTheRootCause
+### implementedAsTheUserStoryDescribes
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q922amx7yjzb1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/jh95pwwjsozb1.jpg)
 
 ### Visitors Count 
 
