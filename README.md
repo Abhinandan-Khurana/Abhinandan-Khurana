@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### classicFontSizeExploit
+### ItsTrue
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/jr2dfu78x70c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/1jpfn8sdic0c1.png)
 
 ### Visitors Count 
 
