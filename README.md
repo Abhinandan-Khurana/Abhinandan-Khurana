@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### nowWithCheckboxesTM
+### ai911
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/hpc5i6n80y0c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/v6637vu6j01c1.jpg)
 
 ### Visitors Count 
 
