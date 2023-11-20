@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### techPile
+### remotelyAccessFilesThroughAStringOfText
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/eji2fu5f151c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/hfg241hopb1c1.jpg)
 
 ### Visitors Count 
 
