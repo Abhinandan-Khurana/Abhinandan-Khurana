@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### bestDataPolicy
+### sudoSudoSudooooo
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/lexhbf90ed1c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/9rn7idyj8j1c1.jpg)
 
 ### Visitors Count 
 
