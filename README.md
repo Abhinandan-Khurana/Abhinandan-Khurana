@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### everyDamnTime
+### IGotHurtDeeply
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/u6bo105ohw1c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/etg50wkeg12c1.png)
 
 ### Visitors Count 
 
