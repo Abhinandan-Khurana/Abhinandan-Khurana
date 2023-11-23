@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whyDoesYoutubeTakeFiveSeconsToLoadToday
+### iWillNeverLiveUpToTheirStandards
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/l7bv49vuaq1c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/f83yk8qavu1c1.jpg)
 
 ### Visitors Count 
 
