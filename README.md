@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### iReallyHopeThisWorks
+### WeAreScrewed
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/cv7qhhb7722c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/20ax1qp5y92c1.jpg)
 
 ### Visitors Count 
 
