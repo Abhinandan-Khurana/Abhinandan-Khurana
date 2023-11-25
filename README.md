@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### OldSchool
+### ImInTheSystem
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ajlq55i3qd2c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/kjpzz94fch2c1.png)
 
 ### Visitors Count 
 
