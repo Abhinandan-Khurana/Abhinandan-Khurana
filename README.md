@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### WeAreScrewed
+### artificialIntelligenceCanDoAnything
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/20ax1qp5y92c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/q9avp21t292c1.jpg)
 
 ### Visitors Count 
 
