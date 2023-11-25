@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### artificialIntelligenceCanDoAnything
+### OldSchool
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/q9avp21t292c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ajlq55i3qd2c1.png)
 
 ### Visitors Count 
 
