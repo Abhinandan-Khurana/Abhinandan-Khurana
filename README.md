@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### isThereAnyAdvantageToUsingItOverHim
+### jediWisdomSheHasLearned
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/ebqnwk4mii2c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/ow3kjayval2c1.jpg)
 
 ### Visitors Count 
 
