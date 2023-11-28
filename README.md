@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### pleaseAcceptAllBiscuits
+### whisperToMe
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/153uutrzjr2c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/b4g39wemlt2c1.jpg)
 
 ### Visitors Count 
 
