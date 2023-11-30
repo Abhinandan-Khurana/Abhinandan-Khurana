@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### proveYourselfAsAProgrammerUsingOnlyOneSentence
+### choosingAnOS
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4nk6go2mb93c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/imr5tcrbtc3c1.jpg)
 
 ### Visitors Count 
 
