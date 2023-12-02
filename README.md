@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### whyTho
+### hoursOfOptimizing
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/bz5g44zjzo3c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/up3e6ags0v3c1.png)
 
 ### Visitors Count 
 
