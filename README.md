@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### frontEndHonesty
+### aintEasyBeingOldSchool
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/k3qpgsr2ja4c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/c170mr81pf4c1.png)
 
 ### Visitors Count 
 
