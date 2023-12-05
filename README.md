@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### noSonOfMineWouldCodeThatShit
+### frontEndHonesty
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/qhqdssdcr64c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/k3qpgsr2ja4c1.jpg)
 
 ### Visitors Count 
 
