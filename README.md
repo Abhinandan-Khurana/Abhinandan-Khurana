@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### tobyFoxIsWild
+### beHonest
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/8izf2ybbji4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/sn9ix6fecm4c1.png)
 
 ### Visitors Count 
 
