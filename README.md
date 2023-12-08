@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### damnTrue
+### wordIsPressed
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/tcps3j36xv4c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/2pknw3kmlx4c1.png)
 
 ### Visitors Count 
 
