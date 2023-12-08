@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### myBossThinksIInventedAI
+### damnTrue
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/uzfc3hrbgs4c1.jpg)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/tcps3j36xv4c1.png)
 
 ### Visitors Count 
 
