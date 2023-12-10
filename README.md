@@ -113,9 +113,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 The top voted meme for today is...
 
-### doNotGetInDebt
+### planningASoftwareProjectBeLike
 
-![ProgrammerHumour Meme of the Day](https://i.redd.it/4vci1brwba5c1.png)
+![ProgrammerHumour Meme of the Day](https://i.redd.it/u7d9jnstoa5c1.png)
 
 ### Visitors Count 
 
