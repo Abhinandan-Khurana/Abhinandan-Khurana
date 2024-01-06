@@ -81,6 +81,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <br>
 <hr>
 <br>
+<!--
 
 # 📊 GitHub Stats:
 
@@ -95,7 +96,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan-khurana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
+<br><br> 
+
+-->
 
 
 ## 🏆 GitHub Trophies
