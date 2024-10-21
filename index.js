@@ -1,9 +1,27 @@
 const { promises: fs } = require('fs');
 const path = require('path');
 
+// async function fetchTopPostsFromReddit() {
+//     try {
+//         const response = await fetch('https://www.reddit.com/r/CybersecurityMemes/top/.json');
+//         if (!response.ok) throw new Error(`Failed to fetch Reddit posts: ${response.statusText}`);
+        
+//         const json = await response.json();
+//         return json.data?.children?.map(({ data }) => data) || [];
+//     } catch (error) {
+//         console.error("Error fetching Reddit posts:", error);
+//         return [];
+//     }
+// }
+
+//Adding custom User-Agent
 async function fetchTopPostsFromReddit() {
     try {
-        const response = await fetch('https://www.reddit.com/r/CybersecurityMemes/top/.json');
+        const response = await fetch('https://www.reddit.com/r/CybersecurityMemes/top/.json', {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+            }
+        });
         if (!response.ok) throw new Error(`Failed to fetch Reddit posts: ${response.statusText}`);
         
         const json = await response.json();
