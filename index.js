@@ -9,7 +9,7 @@ async function main() {
     ).toString("utf-8");
 
     const topPosts = await (
-        await fetch("https://www.reddit.com/r/ProgrammerHumor/top/.json")
+        await fetch("https://www.reddit.com/r/CybersecurityMemes/top/.json")
     ).json();
 
     const posts = topPosts.data.children.map(({ data }) => data);
