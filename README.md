@@ -36,7 +36,7 @@
 - 💓 Passionate about Cyber Security, Purple Teaming, problem solving and automating cyber security!
 - 💬 Ask me about Web Exploitation, Red Teaming, Active Directory and Cryptography - I am delighted to help!
 - ⚡️ Hobbies: Hacking Coding Gaming Poetry and Anime
-- 📫 How to reach me: [abhinandankhuranaoo7@gmail.com][Abhinandan.Khurana@studentambassadors.com]
+- 📫 How to reach me: [abhinandankhuranaoo7@gmail.com]
 - 😄 Pronouns: He/Him
 <br><br>
 <hr>
