@@ -24,9 +24,11 @@
 <!-- Talking about you -->
 ## Talking about Personal Stuffs:
 
+<!--
 <p align="center">
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
 </p>
+-->
 
 - 👨🏽‍💻 I am currently working on AppSec, Product Security, DevSecOps, Red Team Ops and shipping open source hacking softwares!
 - 💓 Passionate about Cyber Security, Purple Teaming, problem solving and automating cyber security!
