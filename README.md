@@ -95,16 +95,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhinandan-khurana&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
+-->
+
 <!-- Footer Counts -->
 
-[![@lousifer007's Holopin board](https://holopin.me/lousifer007)](https://holopin.io/@lousifer007)
+<!-- [![@lousifer007's Holopin board](https://holopin.me/lousifer007)](https://holopin.io/@lousifer007) -->
 
 ## 👥︎ How about an [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) meme before you go?
 
