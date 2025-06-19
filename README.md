@@ -1,4 +1,4 @@
-## <p align="center" > “If you are persistent, you will get it and if you are consistent, you will keep it.” </p>
+<!-- ## <p align="center" > “If you are persistent, you will get it and if you are consistent, you will keep it.” </p> -->
 
 <br>
 
@@ -14,10 +14,10 @@
 ## Glad to see you here! Feel free to connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-khurana)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://abhinandan-khurana.github.io/Abhinandan-portfolio/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/l0u51f3r007)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_khurana_007/)
- [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://abhinandan-khurana.github.io/Abhinandan-portfolio/) -->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/l0u51f3r007)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_khurana_007/) -->
+<!-- [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191) -->
  [![THM Badge](https://img.shields.io/badge/-TryHackMe-841617?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Lousifer007)
 
 
@@ -34,7 +34,7 @@
 
 - 👨🏽‍💻 I am currently working as an AppSec Engineer and Red Team Operator @MoveInSync
 - 💓 Passionate about Cyber Security, Purple Teaming, problem solving and automating cyber security!
-- 💬 Ask me about Web Exploitation, Red Teaming, Active Directory and Cryptography - I am delighted to help!
+- 💬 Ask me about Local LLMs workflow, Web Exploitation, Red Teaming, Product Security, System Design and Active Directory - I am delighted to help!
 - ⚡️ Hobbies: Hacking Coding Gaming Poetry and Anime
 - 📫 How to reach me: [abhinandankhuranaoo7@gmail.com]
 - 😄 Pronouns: He/Him
