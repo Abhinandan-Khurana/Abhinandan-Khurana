@@ -16,11 +16,6 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_khurana_007/) -->
 <!-- [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191) -->
 
-
-
-<br>
-
-
 <!-- Talking about you -->
 ## Talking about Personal Stuffs:
 
@@ -36,9 +31,8 @@
 - ⚡️ Hobbies: Hacking Coding Gaming Poetry and Anime
 - 📫 How to reach me: [abhinandankhuranaoo7@gmail.com]
 - 😄 Pronouns: He/Him
-<br><br>
+
 <hr>
-<br>
 
 <!--
 
