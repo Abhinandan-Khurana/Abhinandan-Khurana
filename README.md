@@ -28,7 +28,7 @@
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
 </p>
 
-- 👨🏽‍💻 I am currently working as an AppSec Engineer and Red Team Operator @MoveInSync
+- 👨🏽‍💻 I am currently working on AppSec, Product Security, DevSecOps, Red Team Ops and shipping open source hacking softwares!
 - 💓 Passionate about Cyber Security, Purple Teaming, problem solving and automating cyber security!
 - 💬 Ask me about Local LLMs workflow, Web Exploitation, Red Teaming, Product Security, System Design and Active Directory - I am delighted to help!
 - ⚡️ Hobbies: Hacking Coding Gaming Poetry and Anime
