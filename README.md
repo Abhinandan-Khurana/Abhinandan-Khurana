@@ -9,9 +9,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Abhinandan+Khurana+aka+%22L0u51f3r007%22;I+am+a+Cyber+Security+Researcher+)](https://git.io/typing-svg)
 
 
-## Glad to see you here! Feel free to connect with me:
+<!--## Glad to see you here! Feel free to connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-khurana) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/l0u51f3r007) [![THM Badge](https://img.shields.io/badge/-TryHackMe-841617?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Lousifer007)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-khurana) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/l0u51f3r007) [![THM Badge](https://img.shields.io/badge/-TryHackMe-841617?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Lousifer007) -->
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://abhinandan-khurana.github.io/Abhinandan-portfolio/) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_khurana_007/) -->
 <!-- [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191) -->
@@ -127,4 +127,5 @@ The top voted meme for today is...
 <p align="center">
 	<img src="https://count.getloli.com/get/@Abhinandan-Khurana?theme=nixietube-1"> <br/>
 </p> -->
+
 
