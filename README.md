@@ -123,7 +123,8 @@ The top voted meme for today is...
   <img src="https://profile-counter.glitch.me/abhinandan-khurana/count.svg" />
 </div>
 
-<h3 align="center">Visitors (Since 2025/09/24)</h3>
+<!-- <h3 align="center">Visitors (Since 2025/09/24)</h3>
 <p align="center">
 	<img src="https://count.getloli.com/get/@Abhinandan-Khurana?theme=nixietube-1"> <br/>
-</p>
+</p> -->
+
