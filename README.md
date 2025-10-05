@@ -110,6 +110,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- [![@lousifer007's Holopin board](https://holopin.me/lousifer007)](https://holopin.io/@lousifer007) -->
 
+<!--
+
 ## 👥︎ How about an [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor) meme before you go?
 
 The top voted meme for today is...
@@ -117,6 +119,8 @@ The top voted meme for today is...
 ### lovinIt
 
 ![ProgrammerHumour Meme of the Day](https://i.redd.it/u5scia5w4p5c1.jpg)
+
+-->
 
 ### Visitors Count 
 
@@ -127,5 +131,6 @@ The top voted meme for today is...
 <p align="center">
 	<img src="https://count.getloli.com/get/@Abhinandan-Khurana?theme=nixietube-1"> <br/>
 </p> -->
+
 
 
