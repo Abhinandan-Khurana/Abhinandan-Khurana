@@ -17,7 +17,7 @@
 <!-- [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191) -->
 
 <!-- Talking about you -->
-## Talking about Personal Stuffs:
+## root@l0u51f3r007:~# whoami:
 
 <!--
 <p align="center">
@@ -135,6 +135,7 @@ The top voted meme for today is...
 <p align="center">
 	<img src="https://count.getloli.com/get/@Abhinandan-Khurana?theme=nixietube-1"> <br/>
 </p> -->
+
 
 
 
