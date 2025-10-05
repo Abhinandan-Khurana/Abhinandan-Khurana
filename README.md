@@ -32,7 +32,7 @@
 - 📫 How to reach me: [abhinandankhuranaoo7@gmail.com]
 - 😄 Pronouns: He/Him
 
-<hr>
+<!-- <hr> -->
 
 <!--
 
@@ -135,6 +135,7 @@ The top voted meme for today is...
 <p align="center">
 	<img src="https://count.getloli.com/get/@Abhinandan-Khurana?theme=nixietube-1"> <br/>
 </p> -->
+
 
 
 
