@@ -29,7 +29,7 @@
 - 💓 Passionate about Cyber Security, Purple Teaming, problem solving, system desgin and automating cyber security!
 - 💬 Ask me about Local LLMs workflow, Web Exploitation, Red Teaming, Product Security, System Design and Active Directory - I am delighted to help!
 - ⚡️ Hobbies: Hacking Coding Gaming Poetry and Anime
-- 📫 How to reach me: [abhinandankhuranaoo7@gmail.com]
+- 📫 How to reach me: [l0u51f3r007@gmail.com]
 - 😄 Pronouns: He/Him
 
 <!-- <hr> -->
@@ -135,6 +135,7 @@ The top voted meme for today is...
 <p align="center">
 	<img src="https://count.getloli.com/get/@Abhinandan-Khurana?theme=nixietube-1"> <br/>
 </p> -->
+
 
 
 
